@@ -1,2 +1,2 @@
 Adding a new line
-added another new line
+added another new lines
